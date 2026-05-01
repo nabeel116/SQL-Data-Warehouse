@@ -7,6 +7,8 @@ Script Purpose:
     if they already exist.
 	  Run this script to re-define the DDL structure of 'silver' Tables
 	  dwh_create_date  column added
+
+Copy Bronze DDL and replace bronze with silver and make appropriate dtype changes as per intended transformed columns.
 ===============================================================================
 */
 
